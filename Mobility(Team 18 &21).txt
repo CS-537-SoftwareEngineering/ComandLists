@@ -12,8 +12,8 @@ Commands in chronological order
       -MBLTY_FWRD
     Move Backward
       -MBLTY_BCK
-6 Calculate Distance
+4. Calculate Distance
     Total Distance
       -MBLTY_TOTALDISATNCE
-9 Rover Stop
+5. Rover Stop
       -MBLTY_POW_OFF
