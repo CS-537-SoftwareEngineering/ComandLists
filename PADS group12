@@ -1,0 +1,29 @@
+1 .  Drilling
+
+PADS_DRILL_START: To start the drill machine.
+
+PADS_DRILL_STOP: To stop the drill.
+
+2. Cleaning-  DRT To start cleaning using DRT(Dust removal tool)
+
+PADS_DRT_SET_MODE: To set what to clean(Stone on surface / Observation Tray)
+
+PADS_DRT_START: To start DRT
+
+PADS_DRT_STOP: To stop DRT
+
+3. Change bit- (Only when drilling bit worn out)
+
+PADS_REPLACE_BITS: For replacing old(used) bit.
+
+4. Disengage Bits (Only when drilling bit got stuck in stone during drilling)
+
+PADS_DIS_ENGAGE_BITS: To disengage the drill from the bit.
+
+PADS_LOAD_BITS: For loading the new bit.
+
+5. Status
+
+PADS_DRILL_STATUS: To check the status of drill machine, Is it running or not?
+
+PADS_DRT_STATUS: To check status of DRT. Is it running?
