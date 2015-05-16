@@ -1,0 +1,19 @@
+Commands in chronological order
+
+1. Rover Start
+    -MBLTY_POW_ON
+2. Decide the turning direction
+    Turn Left
+      - MBLTY_TURNLEFT
+    Turn Right
+     -MBLTY_TURNRIGHT
+3. Decide the moving direction
+    Move Forward
+      -MBLTY_FWRD
+    Move Backward
+      -MBLTY_BCK
+6 Calculate Distance
+    Total Distance
+      -MBLTY_TOTALDISATNCE
+9 Rover Stop
+      -MBLTY_POW_OFF
