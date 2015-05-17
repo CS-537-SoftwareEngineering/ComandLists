@@ -1,0 +1,13 @@
+1. DAN_TURN_ON : Turns the instrument on
+
+2. DAN_TURN_PNG_ON : Turns the Pulsed neutron generator on
+
+3. DAN_TURN_DE_ON : Turns the Detector Element on
+
+4. DAN_TURN_PNG_OFF : Turns the Pulsed neutron generator off
+
+5. DAN_COLLECT_HYD : Give the information about the hydrogen content
+
+6. DAN_TURN_DE_OFF : Turns the Detector Element off
+
+7. DAN_TURN_OFF : Turns the instrument off
