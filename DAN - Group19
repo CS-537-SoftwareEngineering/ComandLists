@@ -1,4 +1,7 @@
-1. DAN_TURN_ON : Turns the instrument on
+
+COMMANDS LIST :
+
+1.DAN_TURN_ON : Turns the instrument on
 
 2. DAN_TURN_PNG_ON : Turns the Pulsed neutron generator on
 
@@ -11,3 +14,55 @@
 6. DAN_TURN_DE_OFF : Turns the Detector Element off
 
 7. DAN_TURN_OFF : Turns the instrument off
+
+
+Information on Dynamic Albedo of Neutrons (DAN) :
+
+The DAN instrument will use the method of neutron-neutron activation analysis in a space application to study the 
+abundance and depth distribution of water in the martian subsurface along the path of the MSL rover. DAN consist of 
+two elements Detector Element and Pulse Neutron Generator.
+
+Water is thought to be the most likely substance within Mars’ subsurface that contain hydrogen nuclei, 
+so the detection of hydrogen in the soil is interpreted to mean the detection of water. Therefore, the neutron and 
+gamma-ray data from the GRS suite can be used to produce global maps of water content in a shallow layer (1 m) of 
+Mars’ subsurface.
+
+The water content of martian soil from a surface platform, based on measurements of the dynamic albedo of neutrons 
+induced by a pulse generator of 14 MeV neutrons. We will use neutron scattering (produced) with a pulse neutron generator) 
+in the martian subsurface to provide an estimation of the concentration of hydrogen in the martian soil at depths  0.5 m. 
+
+Analysis of Hydrogen by DETECTOR ELEMENT :
+
+The DAN-DE includes two 3He proportional counters. These counters have a 2-inch diameter and are 65 mm in length 
+(40 mm active length) and are filled with 3He gas up to 10 atmospheres of pressure (the final pressure will be fixed 
+after physical calibration with the DAN Engineering Model). One of the DAN detectors is surrounded with a cadmium 
+enclosure to prevent registration of thermal neutrons and is able to detect neutrons in a broad energy range, 
+starting above thermal neutrons up to and including epithermal neutrons. The second detector (without the cadmium shield) 
+detects both thermal and epithermal neutrons. 
+
+The DAN-DE digital electronics (based on the ACTEL RTAX series FPGA) also serves as the instrument’s “brain,” which 
+supports the telemetry and commanding interface be-tween the DAN instrument and the MSL computer.
+
+Analysis of Hydrogen by PULSE NEUTRON GENERATOR :
+
+The DAN Pulse Neutron Generator (DAN-PNG) is the other key element of the DAN instrument. It is manufactured as a separate 
+unit that will be connected to the DAN-DE through an intra-instrument cable.
+
+The DAN-PNG inherits all its major functionality from the industry prototype ING-101 (see Introduction), including its 
+neutron tube (with ion source and tritium target) and high-voltage electronics responsible for the generation of 120 kV 
+voltage to accelerate D ions inside the neutron tube. 
+
+The DAN-PNG is able to generate neutron pulses with 107 neutrons per pulse at any frequency up to 10 Hz neutrons per pulse 
+at any frequency up to 10 Hz.
+
+The DANPNG will emit neutron pulses with a selected frequency and irradiate the martian subsurface to produce a dynamic 
+albedo of epithermal and thermal neutrons detected by the DAN-DE in the form of die-away curves. 
+
+This mode will be used during short stops between rover traverses, while parked, and during special inspection activities 
+(long-duration measurements at specially selected locations). Short-duration (2 min) measurements will be requested to 
+provide a rough estimate of the water distribution with an accuracy of 1%. Long-duration (30 min) measurements will be 
+requested to deconvolve the vertical distribution of water with an accuracy 0.1–0.3%.
+
+The current physical parameters of the DAN-PNG (number of neutrons in each pulse, the shape
+of neutron pulse, the suggested frequency of pulsing, and the energy of neutron emission) and the DAN-DE 
+(detector scheme, detector effective volume, gas pressure) have also been used in the numerical simulations.
