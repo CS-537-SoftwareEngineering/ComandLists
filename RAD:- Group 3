@@ -1,0 +1,12 @@
+
+RAD_BOOTUP :  Boots up the system (fully turns power on)
+
+RAD_IS_ON : Is the RAD on?
+
+RAD_CHECKOUT : Send data to rover, once per sol
+
+RAD_SHUTDOWN -- puts RAD in sleep mode, Loads sleep timer and initiates sleep state
+
+RAD_GET_POWER: Get RAD power consumption
+
+RAD_OFF -- fully removes power from RAD
