@@ -1,0 +1,26 @@
+Group 10: MAHLI
+
+System Requirements
+
+1. Capture an image.
+2. Save the image in a directory.
+3. Read the image from the directory.
+4. Declare the colors to each minerals. 
+4. Process the image and determine colors from pixels present in the image.
+5. Determine which color from pixels corresponds to which mineral.
+6. Assign the area of image with the mineral name.
+7. Repeat step 1.
+
+Commands
+
+MAHLI_Camera_ON
+MAHLI_Camera_OFF
+MAHLI_NightIllumination_ON
+MAHLI_NightIllumination_OFF
+MAHLI_AutoFocus_ON
+MAHLI_AutoFocus_OFF
+MAHLI_Video_ON
+MAHLI_Video_OFF
+MAHLI_Image_Capture
+MAHLI_Image_store
+MAHLI_Image_read
