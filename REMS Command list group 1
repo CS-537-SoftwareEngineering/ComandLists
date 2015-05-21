@@ -1,0 +1,14 @@
+REMS_WINDSPEED_MIN :Minimum wind speed required by rover to move
+REMS_WINDSPEED : Fetches the current wind speed of the environment
+REMS_WINDSPEED_MAX : Wind speed at which the rover should stop moving
+REMS_GROUDTEMP_MIN : Minimum ground temperature required by rover to move
+REMS_GROUNDTEMP_MAX : Ground temperature at which rover should stop moving
+REMS_GROUNDTEMP : The current ground temperature.
+REMS_AIRTEMP : The current air temperature outside the rover.
+REMS_AIRTEMP_MIN : Minimum air temperature required by rover to move.
+REMS_AIRTEMP_MAX : Maximum air temperature at which rover should stop moving.
+REMS_PRESSURE : gives current atmospheric pressure.
+REMS_ULTRAVIOLET : gives the current intensity of ultraviolet rays.
+REMS_HUMIDITY : gives the current humidity in the atmosphere.
+REMS_HUMIDITY_MIN : Minimum humidity required by the rover to move.
+REMS_HUMIDITY_MAX : Maximum humidity at which rover should stop moving.
