@@ -1,0 +1,8 @@
+Two navcam stereo pairs(one as a redundant backup) are mounted on the remote sensing mast just below ChemCam.
+45 degree angle of view for one single image with 360 degree panoramic view of the surrounding
+
+NCAM_TURN_ON : Turns on the cam
+NCAM_MOVE_LFT : Move the whole head to left
+NCAM_MOVE_RGHT: Move the whole head to right
+NCAM_CAPTURE: Captures the image 
+NCAM_TURN_OFF : Turns off the cam
