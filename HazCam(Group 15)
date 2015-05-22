@@ -1,0 +1,65 @@
+1. Taking front image
+
+HCAM_FRONT_CAM1_ON (to turn on the front camera1)
+
+HCAM_FRONT_CAM1_OFF (to turn off the front camera1)
+
+HCAM_FRONT_CAM2_ON  (to turn on the front camera2) 
+
+HCAM_FRONT_CAM2_OFF (to turn off the front camera2)
+
+2. Taking rear image
+
+HCAM_REAR_CAM1_ON (to turn on the rear camera1)
+
+HCAM_REAR_CAM1_OFF (to turn off the rear camera1)
+
+HCAM_REAR_CAM2_ON (to turn on the rear camera2)
+
+HCAM_REAR_CAM2_OFF (to turn off the rear camera2)
+
+3. Taking front image when front camera is not in working condition 
+
+HCAM_FRONT_BACKUP_CAM1_ON (to turn on front backup camera1)
+
+HCAM_FRONT_BACKUP_CAM1_OFF (to turn off front backup camera1)
+
+HCAM_FRONT_BACKUP_CAM2_ON (to turn on the front backup camera2)
+
+HCAM_FRONT_BACKUP_CAM2_OFF (to turn off the front backup camera2)
+
+
+4. Taking rear image when rear camera is not in working condition 
+
+
+HCAM_REAR_BACKUP_CAM1_ON (to turn on rear backup camera1)
+
+HCAM_REAR_BACKUP_CAM1_OFF (to turn off the rear backup camera1)
+
+HCAM_REAR_BACKUP_CAM2_ON (to turn on rear backup camera2)
+
+HCAM_REAR_BACKUP_CAM2_OFF (to turn off rear backup camera2)
+
+5. Capturing Front image using main front cameras
+
+HCAM_FRONT_CAM1_CAPT (To take a picture from front cam1)
+
+HCAM_FRONT_CAM2_CAPT (To take a picture from front cam2)
+
+6. Capturing Front image using front Backup cameras
+
+HCAM_FRONT_BACKUP_CAM1_CAPT (To take a picture from front backup cam1)
+
+HCAM_FRONT_BACKUP_CAM2_CAPT (To take a picture from front backup cam2)
+
+7. Capturing Rear Image using Main Rear cameras
+
+HCAM_REAR_CAM1_CAPT (To take a picture from rear cam1)
+
+HCAM_REAR_CAM2_CAPT (To take a picture from rear cam2)
+
+8. Capturing Rear Image using Rear Backup Cameras
+
+HCAM_REAR_BACKUP_CAM1_CAPT (To take a picture from rear backup cam1)
+
+HCAM_REAR_BACKUP_CAM2_CAPT (To take a picture from rear backup cam2)
