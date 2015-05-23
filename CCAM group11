@@ -1,0 +1,19 @@
+CCAM_COOLER_ON: It is used to turn on the cooler.
+
+CCAM_COOLER_OFF:It is used to turn off cooler.
+
+CCAM_POWER_ON:It is used to turn on the system.
+
+CCAM_POWER_OFF:It is used to turn off the system.
+
+CAAM_SET_FOCUS:It is used to focus the identified object.
+
+CCAM_LASER_ON:It is used to turn on laser beam.
+
+CCAM_LASER_OFF:It is used to turn off laser beam.
+
+CCAM_CWL_WARM:It is used to warm CWL(continuous-wave laser).
+
+CCAM_LIBS_WARM:It is used to warm LIBS.
+
+CCAM_FIRE_LASER:It is used to fire the laser beam to focused object
