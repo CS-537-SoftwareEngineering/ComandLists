@@ -6,7 +6,7 @@ CCAM_POWER_ON:It is used to turn on the system.
 
 CCAM_POWER_OFF:It is used to turn off the system.
 
-CAAM_SET_FOCUS:It is used to focus the identified object.
+CCAM_SET_FOCUS:It is used to focus the identified object.
 
 CCAM_LASER_ON:It is used to turn on laser beam.
 
