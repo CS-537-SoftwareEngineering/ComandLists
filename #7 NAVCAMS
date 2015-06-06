@@ -2,7 +2,6 @@ Two navcam stereo pairs(one as a redundant backup) are mounted on the remote sen
 45 degree angle of view for one single image with 360 degree panoramic view of the surrounding
 
 NCAM_TURN_ON : Turns on the cam
-NCAM_MOVE_LFT : Move the whole head to left
-NCAM_MOVE_RGHT: Move the whole head to right
-NCAM_CAPTURE: Captures the image 
+NCAM_CAPTURE: Takes a random image from a set of images and parse in JSON file. 
+NCAM_CLICK: Start the webcam click a picture, convert it to gray scale and parse it in JSON file.
 NCAM_TURN_OFF : Turns off the cam
